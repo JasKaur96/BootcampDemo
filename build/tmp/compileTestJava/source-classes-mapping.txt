@@ -1,0 +1,4 @@
+com/userregisteration/ValidEmailTest.java
+ com.userregisteration.ValidEmailTest
+com/userregisteration/UserRegisterationTest.java
+ com.userregisteration.UserRegisterationTest
